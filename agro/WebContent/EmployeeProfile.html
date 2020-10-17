@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Employee Profile</title>
+<link rel="stylesheet" type="text/css" href="backstyle2.css">
+</head>
+<body>
+	<div class="bg-image"></div>
+	<div class="bg-text">
+		<form action="EmployeeProfileServlet" method="post">
+			<center>
+				<center>
+					<h2>Farmer Details</h2>
+				</center>
+			    Name     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text"    name= "farmerName"><br />
+				<br>  location&nbsp;       <input type="text"    name="location"><br />
+				<br>  mandal  &nbsp;       <input type="text"    name="mandal"><br />
+				<br>  district&nbsp;&nbsp;&nbsp;      <input type="text"    name="district"><br />
+				<br>  product  &nbsp;      <input type="text"    name="product"><br />
+				<br>  quantity  &nbsp;     <input type="number"  name="quantity"><br />
+				<br>  MobileNo &nbsp;<input type="text"    name="farmerMobileNo"><br />
+				<br> <input type="submit" value="Register" /><br />
+				<br>
+		</form>
+		<form action="GetAllFarmersServlet" method="post">
+			<input type="submit" value="Display">
+		</form>
+		<br>
+		<form action="HomePage.html" method="post">
+			<input type="submit" value="logout">
+		</form>
+		</center>
+	</div>
+</body>
+</html>
