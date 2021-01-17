@@ -13,5 +13,6 @@
 - Display nearest Farmers details to the customers.
 <br><br>
 ## Functionalities
-<br>
-## Home Page
+<br><br>
+![Screenshot (127)](https://user-images.githubusercontent.com/72993229/104833937-4fc2d380-58c2-11eb-82f7-cd7c8a6c63b5.png)
+
