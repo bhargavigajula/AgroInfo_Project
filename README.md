@@ -11,3 +11,7 @@
 - Display All Farmers Details to the Employee.
 - Register Details of Customers required product by Customers.
 - Display nearest Farmers details to the customers.
+<br><br>
+## Functionalities
+<br>
+### Home Page
