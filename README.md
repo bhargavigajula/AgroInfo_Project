@@ -41,3 +41,15 @@ This is the Login page for Employee and customers.If the user want to create an 
 Farmers Details are registered by Employee.Farmers Location,Product and its Quantity all the required information of farmers is filled by the Employee. 
 <br><br>
 ![Screenshot (136)](https://user-images.githubusercontent.com/72993229/104834576-5eab8500-58c6-11eb-89e7-bef5d7852006.png)
+<br>
+### Update Farmer Details
+Farmers Details are Updated by Employee.Once the farmer sold the product it is neccessary to update that farmer details.All Updation Details of farmers are taken care by the employee. 
+<br><br>
+![Screenshot (138)](https://user-images.githubusercontent.com/72993229/104834659-eb564300-58c6-11eb-9983-2f367f69b325.png)
+<br>
+### Delete/Display Farmer Details
+If the farmer completely sold their product then employee remove that farmer details by clicking the delete button.By clicking display button employee can view all farmers details.
+<br><br>
+![Screenshot (137)](https://user-images.githubusercontent.com/72993229/104834724-4ee07080-58c7-11eb-916e-467e7de46efa.png)
+<br>
+<br><br>
