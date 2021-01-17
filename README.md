@@ -36,3 +36,8 @@ This is the Login page for Employee and customers.If the user want to create an 
 <br>
 #### Login Page for Customer
 ![Screenshot (129)](https://user-images.githubusercontent.com/72993229/104834479-9403a300-58c5-11eb-9372-0f4aa60f03c4.png)
+<br>
+### Register Farmer Details
+Farmers Details are registered by Employee.Farmers Location,Product and its Quantity all the required information of farmers is filled by the Employee. 
+<br><br>
+![Screenshot (136)](https://user-images.githubusercontent.com/72993229/104834576-5eab8500-58c6-11eb-89e7-bef5d7852006.png)
