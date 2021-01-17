@@ -45,6 +45,16 @@ Farmers Details are registered by Employee.Farmers Location,Product and its Quan
 ### Update Farmer Details
 Farmers Details are Updated by Employee.Once the farmer sold the product it is neccessary to update that farmer details.All Updation Details of farmers are taken care by the employee. 
 <br><br>
+![Screenshot (134)](https://user-images.githubusercontent.com/72993229/104835001-894b0d00-58c9-11eb-8ce1-73bc95cfa041.png)
+<br>
+### Display Nearest Farmer Details
+Farmers who are near to the customers location as well who want to sell the customers required product those farmers details will be displayed to the customers.
+<br><br>
+![Screenshot (11)](https://user-images.githubusercontent.com/72993229/104835053-ec3ca400-58c9-11eb-83f6-6d8bc9eefcda.png)
+<br>
+### AboutUs Page
+<br><br>
+![Screenshot (26)](https://user-images.githubusercontent.com/72993229/104835079-155d3480-58ca-11eb-919d-f4a73132a79c.png)
 ![Screenshot (138)](https://user-images.githubusercontent.com/72993229/104834659-eb564300-58c6-11eb-9983-2f367f69b325.png)
 <br>
 ### Delete/Display Farmer Details
@@ -52,4 +62,6 @@ If the farmer completely sold their product then employee remove that farmer det
 <br><br>
 ![Screenshot (137)](https://user-images.githubusercontent.com/72993229/104834724-4ee07080-58c7-11eb-916e-467e7de46efa.png)
 <br>
+### Register the Product Details
+Here the customer give all details of the product that they want to buy.How much quantity they requires,their location all the necessary information is filled by the customer.
 <br><br>
