@@ -14,5 +14,7 @@
 <br><br>
 ## Functionalities
 <br><br>
-![Screenshot (127)](https://user-images.githubusercontent.com/72993229/104833937-4fc2d380-58c2-11eb-82f7-cd7c8a6c63b5.png)
+## Home Page
+<br>
+![Screenshot (127)](https://user-images.githubusercontent.com/72993229/104834020-c6f86780-58c2-11eb-99f3-b01eef4addfe.png)
 
