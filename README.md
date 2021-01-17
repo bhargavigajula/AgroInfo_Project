@@ -14,4 +14,4 @@
 <br><br>
 ## Functionalities
 <br>
-### Home Page
+## Home Page
