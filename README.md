@@ -13,9 +13,9 @@
 - Display nearest Farmers details to the customers.
 <br><br>
 ## Functionalities
-#### Home Page
-This is the Landing page of the website.From this page navigate to login page and aboutus page.
-<br>
+### Home Page
+This is the Landing page of the website.From this page navigate to Login page and AboutUs page.
+<br><br>
 ![Screenshot (127)](https://user-images.githubusercontent.com/72993229/104834020-c6f86780-58c2-11eb-99f3-b01eef4addfe.png)
 
 
