@@ -27,5 +27,12 @@ If the user first time visit this website then he/she first create an account to
 <br>
 #### Register Page for Customer
 ![Screenshot (135)](https://user-images.githubusercontent.com/72993229/104834334-a5987b00-58c4-11eb-9055-c90571915293.png)
-
-
+<br>
+### Login Page
+This is the Login page for Employee and customers.If the user want to create an another account he/she create by clicking the SingnUp button.
+<br><br>
+#### Login Page for Employee
+![Screenshot (128)](https://user-images.githubusercontent.com/72993229/104834461-71718a00-58c5-11eb-93ab-b3f36b921b50.png)
+<br>
+#### Login Page for Customer
+![Screenshot (129)](https://user-images.githubusercontent.com/72993229/104834479-9403a300-58c5-11eb-9372-0f4aa60f03c4.png)
